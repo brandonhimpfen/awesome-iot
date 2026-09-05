@@ -1,4 +1,4 @@
-# Awesome IoT [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome IoT [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -94,9 +94,9 @@ The Internet of Things (IoT) connects physical devices to the internet, enabling
 
 ## Related Awesome Lists
 
-- **[Awesome Edge Computing](https://github.com/awesomelistsio/awesome-edge-computing)** – Tools and resources related to edge computing and IoT.
-- **[Awesome Home Automation](https://github.com/awesomelistsio/awesome-home-automation)** – IoT-based home automation resources.
-- **[Awesome Cloud Native](https://github.com/awesomelistsio/awesome-cloud-native)** – Resources related to cloud-native architecture including IoT.
+- **[Awesome Edge Computing](https://github.com/brandonhimpfen/awesome-edge-computing)** – Tools and resources related to edge computing and IoT.
+- **[Awesome Home Automation](https://github.com/brandonhimpfen/awesome-home-automation)** – IoT-based home automation resources.
+- **[Awesome Cloud Native](https://github.com/brandonhimpfen/awesome-cloud-native)** – Resources related to cloud-native architecture including IoT.
   
 ## Contribute
 
